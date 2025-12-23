@@ -1,0 +1,15 @@
+# robots.txt for CrazyPriceShopping
+# Allow all search engines to crawl everything
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://chessmasterflash.github.io/Crazypriceshoppin/sitemap.xml
+
+# Crawl-delay (optional - helps prevent server overload)
+Crawl-delay: 1
+
+# Block specific bots if needed (optional)
+# User-agent: BadBot
+# Disallow: /
